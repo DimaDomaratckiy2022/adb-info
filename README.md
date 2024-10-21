@@ -10,6 +10,6 @@ Connect your device to the computer and allow debugging.
 
 Run the script:
     
-      python get_device_info.py
+      python adb-info.py
 
 All device information will be saved in device_info.txt
