@@ -1,4 +1,4 @@
-# adb-info
+# adb-info (Only Windows)
 
 Enable USB debugging on your device:
 
