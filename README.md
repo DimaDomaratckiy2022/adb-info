@@ -11,5 +11,7 @@ Connect your device to the computer and allow debugging.
 Run the script:
     
       python adb-info.py
+      
+Or you can run the exe file
 
 All device information will be saved in device_info.txt
