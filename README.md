@@ -1,4 +1,4 @@
-# adb-info (Only Windows)
+# adb-info (Only Windows and Linux)
 
 Enable USB debugging on your device:
 
@@ -12,6 +12,6 @@ Run the script:
     
       python adb-info.py
       
-Or you can run the exe file
+Or you can run the execute file
 
 All device information will be saved in device_info.txt
